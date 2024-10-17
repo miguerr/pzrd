@@ -1092,6 +1092,9 @@ SandboxVars = {
 
 <h1 align="center"><strong>« ACTIVE MODLIST »</strong></h1>
 
+<h4 align="center"><a href="https://steamcommunity.com/workshop/filedetails/?id=3349992370"> Steam Workshop Collection </a>
+</h4>
+
 <h4 align="center"><a href="https://docs.google.com/spreadsheets/d/1T3axOnPOg-ytmteB1LLwTigE_y60vZ28-IoUZK57dHI/edit?usp=sharing"> Google Drive Version </a>
 </h4>
 
